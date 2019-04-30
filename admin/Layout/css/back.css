@@ -1,0 +1,127 @@
+body{
+ height:4000px;
+}
+
+/* Start Index Page */
+
+.login{
+    width: 500px;
+    margin:70px auto;
+   
+}
+.login > input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+/* End Index Page */
+
+/* Start Dashboard Page */
+
+.home-stat .stat{
+    border:1px solid #CCC;
+    padding:20px;
+    font-size:15px;
+    text-align: center;
+    margin-bottom: 30px;
+    color:#FFF;
+    border-radius: 10px;
+}
+.home-stat .stat a{
+    color:#FFF;
+    text-decoration:none;
+}
+
+
+
+.home-stat .stat span{
+    display: block;
+    font-size:60px;
+}
+.home-stat .st-members{
+    background-color:#2980b9
+}
+
+
+.home-stat .st-pending{
+    background-color:#c0392b
+}
+
+.home-stat .st-items{
+    background-color:#d35400
+}
+
+.home-stat .st-comments{
+    background-color:#34495e
+}
+.latest-users li a{
+    color: #FFF;
+    text-decoration: none;
+}
+.latest-users li{
+    padding:5px;
+    margin-top: 5px;
+    font-weight: bold;
+    overflow: hidden;
+    
+}
+.latest-users li:nth-child(odd){
+    background-color:#eee;
+       
+}
+
+
+
+
+
+
+
+
+
+
+
+/* End Dashboard Page */
+
+
+
+
+
+/* Start Member Page */
+
+/* Start Manage Section */
+
+ 
+.main-table tr.main-tr{
+    background-color:#333;
+    vertical-align: middle;
+    padding-top:10px;
+    color:#FFF;
+    
+}
+.main-table tr.main-tr td{
+    vertical-align: middle;
+    padding-top:10px;
+    color:#FFF;
+}
+
+.main-table tr.branch-tr td{
+    padding-top:12px;
+    vertical-align: middle;
+    font-size:14px;
+    font-weight: bold;
+    color:#555;
+    background-color:#FFF;
+}
+ 
+/* End Manage Section */
+
+/* End Member Page */
+
+
+
+
+
+
+
+
